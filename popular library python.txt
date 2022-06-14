@@ -1,0 +1,10 @@
+TensorFlow-computation using data flow graphs for scalable machine learning.
+Scikit-Learn-integrates classic machine learning algorithms.
+Numpy-a fundamental package needed for scientific computing with Python
+Keras-Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow.
+PyTorch-a deep learning framework.
+LightGBM-a fast, distributed, high performance gradient boosting framework.
+Eli5-ELI5 is a Python package which helps to debug machine learning classifiers and explain their predictions. It provides support for the following machine learning frameworks and packages:
+SciPy-It provides more utility functions for optimization, stats and signal processing.
+Theano --Theano is a Python library that allows us to evaluate mathematical operations including multi-dimensional arrays so efficiently.
+Pandas-pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language
